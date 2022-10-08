@@ -1,0 +1,98 @@
+{"EMPLOYEES":[
+	{
+		"NAME" : "Naveen Reddy",
+		"TITLE" : "Chairman",
+		"DEPARTMENT" : "Board of Director",
+		"BIO" : "As a Chairman, i will be the person to pland organise the things on the company andI take on more hands-on responsibilities, such as making business decisions. Communicating with shareholders, government agencies, and the general public on behalf of the company. Observing and evaluating the work of other firm executives, such as directors, vice presidents, and presidents. Maintaining a thorough understanding of the competitive market landscape, expansion potential, and industry developments, among other things."
+	},
+	{
+		"NAME" : "Pranav Kumar",
+		"TITLE" : "CO-Chairman",
+		"DEPARTMENT" : "Board of Director",
+		"BIO" : "I'm solely involved in high-level corporate planning and important business decisions . Leading the company's short- and long-term strategy formulation. Creating and implementing the vision and mission of the company or organisation. Assuring that the corporation maintains a high level of social responsibility in all of its operations. Assessing the company's risks and ensuring that they are tracked and mitigated. Establishing strategic objectives and ensuring that they are measurable and definable."
+	},
+	{
+		"NAME" : "Abhinav Kumar",
+		"TITLE" : "IT manager",
+		"DEPARTMENT" : "Board of Director",
+		"BIO" : "Firm's strategic and operational decisions, as well as ensuring that the organisation complies with its legal duties. As an individual director, my job is to attend board meetings so that the board can make these decisions and ensure that the company's commitments are met. Promote the company's success. Maintain a respectable level of caution, expertise, and diligence. Declare any potential or current business dealings or arrangements with the corporation."
+	},
+	{
+		"NAME" : "Hrithik reddy",
+		"TITLE" : "IT manager-2",
+		"DEPARTMENT" : "IT Accountant",
+		"BIO" : "Directly reporting to the board of directors, having a supervisory role for top-level management, and accepting responsibility for the organization's budget and financial health. Provide the organisation with strategic planning and vision. Hold company policies and stakeholders accountable for business operations. Maintain a professional public image on behalf of the business. Make a list of the company's short- and long-term objectives."
+	},
+	{
+		"NAME" : "Deeksha reddy",
+		"TITLE" : "Vice President",
+		"DEPARTMENT" : "Borad of Director",
+		"BIO" : "I work in organisations as an executive, frequently reporting to the company's CEO or President. Listening and communicating. Speaking and presenting in front of an audience. Problem-solving and critical thinking. Making critical business decisions or commitments. Assisting in the development of strategic goals. Identifying the company's success and making decisions about how to improve it. Choosing the department's or company's budget."
+	},
+	{
+		"NAME" : "Ramya reddy",
+		"TITLE" : "IT Administrator",
+		"DEPARTMENT" : "IT",
+		"BIO" : "Oversee and maintain the computer infrastructure of a company. This comprises network, server, and security programmes and systems maintenance. Manage the upgrading and installation of new hardware and software, troubleshoot computer system issues, and evaluate viruses and other potential dangers to a company's network. It's also possible to keep track of email usage, set and change passwords, advise computer system upgrades, backup data, and execute data recovery if necessary."
+	},
+	{
+		"NAME" : "Sai hamsa reddy",
+		"TITLE" : "IT Administrator",
+		"DEPARTMENT" : "IT",
+		"BIO" : "Monitor email usage, generate and change passwords, recommend computer system upgrades, backup data, and execute data recovery if necessary. Successfully complete the responsibilities and expectations of their employment. Keep computer software up to date. Installs and upgrades of entire systems. Ensure that data storage and retrieval systems are in good working order. Manage the security of your network."
+	},
+	{
+		"NAME" : "Deeksha reddy",
+		"TITLE" : "Human resourse",
+		"DEPARTMENT" :"Research & Development",
+		"BIO" : "Designing, carrying out, and analysing data from controlled laboratory-based studies, tests, and trials. Experiment planning and execution data collection and analysis Performing fieldwork, such as collecting samples. Performing fieldwork, such as collecting samples. putting together research ideas and funding applications/bids research articles, reports, reviews, and summaries to name a few. keeping abreast of pertinent scientific and technological advancements."
+	},
+	{
+		"NAME" : "Geetha reddy",
+		"TITLE" : "Research Assistant",
+		"DEPARTMENT" : "Research & Development",
+		"BIO" : "Experimentation, surveys, and the facilitation of focus groups are all ways to gather research data. Data should be entered into databases and other software. Maintain and calibrate laboratory equipment on a regular basis. Create tests and focus groups to collect data as decided by the research director. Manage test subject records, answer phone calls, and schedule lab maintenance among other administrative activities."
+	},
+	{
+		"NAME" : "Seetha",
+		"TITLE" : "Product Development",
+		"DEPARTMENT" : "Resource Mangement",
+		"BIO" : "By talking to customers, filling out questionnaires, and conducting market research, you can identify a market need. Determine the necessity for a product-based solution and whether or not customers are willing to pay for it. Make a mental model of the product to see if it's a good fit for the problem. Confirm that the solution product is viable, worthwhile, and well-liked by the target audience."
+	},
+	{
+		"NAME" : "Sravani",
+		"TITLE" : "Product Development",
+		"DEPARTMENT" : "Resource Mangement",
+		"BIO" : "To validate the product concept, create a roadmap to address the most pressing concerns. Create a prototype of the product that has just enough functionality to meet the needs of the customer. Experiment with the MVP to measure interest, price sensitivity, marketing channels, message creation, and packaging development. Collect user input in order to continue expanding and improving the product, expanding the product roadmap, and setting new strategic goals for the product."
+	},
+	{
+		"NAME" : "Nikila",
+		"TITLE" : "Accounting",
+		"DEPARTMENT" : "Accounts and Finance",
+		"BIO" : "Accounting systems and accounting plans are developed for a business or an individual. Thorough reports to keep track of their findings and provide tax advice to the companies they're investigating. Check receipts, income tax returns, financial statements, ledgers, and other financial papers within a company. Returns on income must be filed. Ascertain that corporations are adhering to the Canadian Tax Act."
+	},
+	{
+		"NAME" : "Sree laya",
+		"TITLE" : "Accounting",
+		"DEPARTMENT" : "Accounts and Finance",
+		"BIO" : "On behalf of a firm, responsible for financial audits within an organisation. Ascertain that corporations are adhering to the Canadian Tax Act. Develop reporting criteria for the organization's future use. Working with or supervising other Auditors or Junior Accountants is a must. Prepare financial documentation for the government, business, or other governing authorities. Client tax consultation services are provided."
+	},
+	{
+		"NAME" : "navya",
+		"TITLE" : "Marketing Lead",
+		"DEPARTMENT" : "Sales & Marketing",
+		"BIO" : "A person in charge of leading a team of marketing experts to help a firm achieve its marketing goals. Leadership, project management, and account management are all elements of customer implementations, particularly business mobilisation programmes. Assist in the advancement and execution of project management processes. It will be necessary to handle both internal and external SharePoint project management sites."
+	},
+	{
+		"NAME" : "Deepika",
+		"TITLE" : "Programmer",
+		"DEPARTMENT" : "Development",
+		"BIO" : "Im one of the devolopers in the company who designs the applications and websites for the company which are required to the customers who purchase the produts from the company. it dependes up on requirement we form a teams for developing a mobile applications and webapplication based on demand. generally, a project takes 2 to 4 months to finish "
+	},
+	{
+		"NAME" : "Mounica",
+		"TITLE" : "web-Designer",
+		"DEPARTMENT" : "Development",
+		"BIO" : "Im one of the web-devolopers in the company who designs the websites for the company which are required to the customers who purchase the produts from the company on online website through bookings. it dependes up on requirement we form a teams for developing webapplication based on demand. generally, a project takes 2 to 4 months to finish "
+	}
+]}

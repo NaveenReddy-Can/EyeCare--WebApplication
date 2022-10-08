@@ -1,0 +1,260 @@
+
+body{
+    background-color:black;
+}
+header{
+    background-color: black;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius:10px;
+    color:white;
+}
+header :hover{
+    box-shadow: 10px 10px 5px LightSeaGreen;
+}
+
+h1{
+    color: white;
+}
+header img:hover{
+    transform: scale(1.02);
+    box-shadow: 0 0 20px rgba(255, 254, 254, 0.979);
+}
+nav {
+       background-color: black;
+       font-family: Arial, Helvetica, sans-serif;
+       font-size: 1.25em;
+       font-weight: bold;
+       text-align: center;
+       margin-top: 0.5em;
+       border-radius: 20%;
+}
+nav ul {
+        width:80%;
+        text-align:center;
+	      padding: 0;
+	      margin-top: 0.5em; 
+  	    margin-bottom: 0.5em;
+        display:inline-flex;
+}
+nav li {
+        width:100%;
+	    background-color: #90eb10;
+	    border-radius: 2em;
+	    list-style-type: none;
+	    margin: 0.3em;
+	    padding: 0.5em;
+        text-align:center;
+       
+}
+main video{
+	width: 85%;
+	border: 0.01px solid #dfd7d7;
+  
+}
+
+nav li:hover{
+        background-color:#fa0720;
+
+}
+nav li a {		
+        text-align:center;
+    	color: #FFFFFF;
+     	text-decoration: none;
+        font-family:  "Times New Roman";
+}
+
+.dropbtn {
+    background-color:#90eb10;
+    font-size: 1.0em;
+    color: white;
+    border:none;
+    font-weight: bold;
+    font-family:  "Times New Roman";
+    
+  }
+  .dropbtn:hover{
+    background-color:#fa0720;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+    background-color: #90eb10;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #90eb10;
+    color: white;
+    min-width: 160px;
+    z-index: 1;
+    margin-bottom: 1px;
+    border-radius: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .dropdown-content a {
+    color: white;
+    padding: 12px 16px;
+    text-decoration: none;
+    font-size: 0.9em;
+    display: block;
+    border-radius: 20px;
+  }
+  
+  .dropdown-content a:hover {background-color:#fa0720;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+
+
+main{
+    background-color: black;
+    text-align: center;
+    color:white;
+    margin-top:20px;
+    margin-bottom: 10px;
+    padding: 20px;
+    border-radius : 10px;
+}
+
+main:hover{
+    box-shadow:10px 10px 5px LightSeaGreen;
+}
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: darkcyan;
+    color: white;  
+    font-size:12px;
+    
+  }
+footer:hover {
+    box-shadow:10px 10px 5px #fa0720;
+
+}
+
+.special-content .row {
+    margin-left: 8%;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+    padding-top: 4%;
+}
+
+.outer-column {
+    margin-top:0px;
+    float: left;
+    width: 50%;
+}
+
+.inner-column {
+    padding:0px;
+    float: left;
+    width: 30%;
+}
+
+.inner-column:last-of-type {
+    margin-left: 20%;
+}
+
+.row img {
+    width: 160%;
+}
+.banner{
+width:1000px;
+height:80x;
+}
+
+.inner-column img:hover{
+    background-color: rgb(32, 165, 165);
+    transform: scale(1.05);
+    box-shadow: 0 0 20px rgba(0,0,0,0.15);
+}
+
+@media only screen and (max-width: 3500px) {
+  body{
+    background-color: black;
+  }
+ #container{
+   width:100%;
+   margin-left:auto;
+   margin-right: auto;
+   }
+   
+h1{
+  color: white;
+  font-size: 10%;
+}
+img{
+  max-width: 100%;
+}
+header{
+    margin-top: 0.2em;
+		border-radius:0.5em;
+    text-align: center;
+		}
+nav {
+        background-color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 1.25em;
+        font-weight: bold;
+        text-align: center;
+        border-radius: 0.1px;
+        border-bottom: 2px;
+        margin-bottom: 2%;
+}
+
+nav ul {
+  padding : 0;
+  text-align: center;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  display:list-item;
+}
+
+nav li {
+
+  background-color: #90eb10;
+  border-radius:2em;
+  list-style-type: none;
+  margin:0.3em;
+  margin-left: 10%;
+  padding: 0.4em;
+  text-align: center;
+}
+
+nav li a {
+  color:white;
+  text-decoration: none;
+  text-align: center;
+}
+nav li:hover{
+  background-color:#fa0720;
+
+}
+
+.mobile{
+  display: inline;
+}
+
+/*main{
+
+  display:inline-block;
+  font-size:1em;
+  margin-top:0.5em;
+  padding:1em;
+  background-color:rgb(32, 165, 165);
+  border-top:solid 0.2em #009933;
+  border-bottom: solid 0.2em #009933;
+}*/
+
+}
+
+@media only screen and (max-width: 700px) {
+}

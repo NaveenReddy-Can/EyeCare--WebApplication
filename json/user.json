@@ -1,0 +1,37 @@
+[
+    {
+    "name": "naveen",
+    "age" : 23,
+    "address" : "Sarnia, Ontario"
+},
+{
+    "name": "reddy",
+    "age" : 23,
+    "address" : "Sarnia, Ontario"
+},
+{
+    "name": "pranav",
+    "age" : 23,
+    "address" : "Sarnia, Ontario"
+},
+{
+    "name": "Dell",
+    "age" : 23,
+    "address" : "Sarnia, Ontario"
+},
+{
+    "name": "inspiron",
+    "age" : 23,
+    "address" : "Sarnia, Ontario"
+},
+{
+    "name": "akhil",
+    "age" : 23,
+    "address" : "Sarnia, Ontario"
+},
+{
+    "name": "ganesh",
+    "age" : 23,
+    "address" : "Sarnia, Ontario"
+}
+]

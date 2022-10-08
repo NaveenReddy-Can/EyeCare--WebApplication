@@ -1,0 +1,326 @@
+{
+    "PRODUCTS": [
+        {
+            "ProductName": "Single vison Lens-1",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "34",
+            "Size": "Small",
+            "Colour": "Black"
+        },
+        {
+            "ProductName": "Single vison Lens-2",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "76",
+            "Size": "Medium",
+            "Colour": "Blue"
+        },
+        {
+            "ProductName": "Single vison Lens-3",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "32",
+            "Size": "Small",
+            "Colour": "White"
+        },
+        {
+            "ProductName": "Bifocal-1",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "12",
+            "Size": "Small",
+            "Colour": "White"
+        },
+        {
+            "ProductName": "Bifocal-2",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "42",
+            "Size": "Extra Large",
+            "Colour": "Black"
+        },
+        {
+            "ProductName": " Bifocal-3",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "22",
+            "Size": "Large",
+            "Colour": "Green"
+        },
+        {
+            "ProductName": "Trifocal lens-red ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "32",
+            "Size": "Medium",
+            "Colour": "Red"
+        },
+        {
+            "ProductName": "Trifocal lens-black ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "75",
+            "Size": "Medium",
+            "Colour": "Black"
+        },
+        {
+            "ProductName": "Trifocal lens-black ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "34",
+            "Size": "Large",
+            "Colour": "Black"
+        },
+        {
+            "ProductName": "Progressive lens ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "45",
+            "Size": "Large",
+            "Colour": "Black and blue"
+        },
+        {
+            "ProductName": "Progressive lens-2 ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "22",
+            "Size": "Medium",
+            "Colour": "Grey"
+        },
+        {
+            "ProductName": "Progressive lens-distance ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "26",
+            "Size": "Small",
+            "Colour": "White and black"
+        },
+        {
+            "ProductName": "Reading Glasses",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "56",
+            "Size": "Small",
+            "Colour": "Blue"
+        },
+        {
+            "ProductName": "Reading Glasses",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "87",
+            "Size": "Medium",
+            "Colour": "Black"
+        },
+        {
+            "ProductName": "Digital Light blocking glasses ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "32",
+            "Size": "Large",
+            "Colour": "White"
+        },
+        {
+            "ProductName": "Digital Light blocking glasses ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "87",
+            "Size": "Small",
+            "Colour": "Red and Black"
+        },
+        {
+            "ProductName": "Saftey Glasses ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "67",
+            "Size": "Small",
+            "Colour": "Grey and white"
+        },
+        {
+            "ProductName": "Saftey Glasses ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "100",
+            "Size": "Large",
+            "Colour": "Pure Black"
+        },
+        {
+            "ProductName": "Sun Glasses ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "162",
+            "Size": "Small",
+            "Colour": "Red"
+        },
+        {
+            "ProductName": "Sun Glasses ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "22",
+            "Size": "Medium",
+            "Colour": "Golden"
+        },
+        {
+            "ProductName": " Sun Glasses",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "76",
+            "Size": "Small",
+            "Colour": "Black"
+        },
+        {
+            "ProductName": "Sun Glasses ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "54",
+            "Size": "Medium",
+            "Colour": "Blue"
+        },
+        {
+            "ProductName": "Non prescribed Glasses ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "45",
+            "Size": "Small",
+            "Colour": "Black"
+        },
+        {
+            "ProductName": "Non prescribed Glasses  ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "67",
+            "Size": "Medium",
+            "Colour": "Blue"
+        },
+        {
+            "ProductName": "Non prescribed Glasses  ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "72",
+            "Size": "Large",
+            "Colour": "red"
+        },
+        {
+            "ProductName": "Non prescribed Glasses  ",
+            "Stock": "OUT OF STOCK ",
+            "QuantityOnHand": "0",
+            "Size": "large",
+            "Colour": "Brown"
+        },
+        {
+            "ProductName": "Non prescribed Glasses  ",
+            "Stock": "OUT OF STOCK ",
+            "QuantityOnHand": "0",
+            "Size": "Small",
+            "Colour": "Red"
+        },
+        {
+            "ProductName": "Non prescribed Glasses  ",
+            "Stock": " OUT OF STOCK",
+            "QuantityOnHand": "76",
+            "Size": "Extra Large",
+            "Colour": "Green"
+        },
+        {
+            "ProductName": "Working Glasses ",
+            "Stock": "IN STOCK ",
+            "QuantityOnHand": "34",
+            "Size": "Large",
+            "Colour": "Black"
+        },
+        {
+            "ProductName": "Working Glasses ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "24",
+            "Size": "Small",
+            "Colour": "Red"
+        },
+        {
+            "ProductName": "Working Glasses",
+            "Stock": "IN STOCK ",
+            "QuantityOnHand": "12",
+            "Size": "Medium",
+            "Colour": "Blue"
+        },
+        {
+            "ProductName": "UV Glasses ",
+            "Stock": "IN STOCK ",
+            "QuantityOnHand": "21",
+            "Size": "Small",
+            "Colour": "White"
+        },
+        {
+            "ProductName": "Surgrey Glasses ",
+            "Stock": "IN STOCK ",
+            "QuantityOnHand": "12",
+            "Size": "Large",
+            "Colour": "Black"
+        },
+        {
+            "ProductName": "Surgery Glasses ",
+            "Stock": "IN STOCK ",
+            "QuantityOnHand": "87",
+            "Size": "Extra large",
+            "Colour": "White"
+        },
+        {
+            "ProductName": "Swimming Glasses ",
+            "Stock": "IN STOCK ",
+            "QuantityOnHand": "56",
+            "Size": "Extra large",
+            "Colour": "Mixed colors"
+        },
+        {
+            "ProductName": "Driving Glasses",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "32",
+            "Size": "Medium",
+            "Colour": "Black"
+        },
+        {
+            "ProductName": "Driving Glasses ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "76",
+            "Size": "Large",
+            "Colour": "Red"
+        },
+        {
+            "ProductName": "Driving Glasses ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "32",
+            "Size": "Extra Large",
+            "Colour": "Blue"
+        },
+        {
+            "ProductName": "Driving Glasses ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "76",
+            "Size": "Medium",
+            "Colour": "Grey"
+        },
+        {
+            "ProductName": "Welding Glasses",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "76",
+            "Size": "Medium",
+            "Colour": "Black"
+        },
+        {
+            "ProductName": "Welding Glasses ",
+            "Stock": "IN STOCK ",
+            "QuantityOnHand": "32",
+            "Size": "Large",
+            "Colour": "Blue"
+        },
+        {
+            "ProductName": "Sky Diving Glalles ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "65",
+            "Size": "Extra large",
+            "Colour": "Red"
+        },
+        {
+            "ProductName": "Sky Diving Galsses ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "32",
+            "Size": "Medium",
+            "Colour": "32"
+        },
+        {
+            "ProductName": "Sky Diving Glasses ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "56",
+            "Size": "Small",
+            "Colour": "Blue"
+        },
+        {
+            "ProductName": "Sky Diving Glasses ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "76",
+            "Size": "Medium",
+            "Colour": "Blue"
+        },
+        {
+            "ProductName": "Sky Diving Glasses ",
+            "Stock": "IN STOCK",
+            "QuantityOnHand": "56",
+            "Size": "Small",
+            "Colour": "Red"
+        }
+    ]
+}
